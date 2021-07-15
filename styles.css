@@ -55,6 +55,7 @@ button {
     overflow:scroll;
     border: 1px solid var(--primary);
     background-color: #FCE7F3;
+    padding-bottom: 1rem;
 }
 
 footer {
