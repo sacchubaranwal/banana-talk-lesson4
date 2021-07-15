@@ -14,6 +14,18 @@ body {
     margin: 0;
     font-family: 'Kalam', cursive;
     color: #333333;
+    background-color: #DDD6FE;
+}
+
+
+.hero {
+    padding: 2rem;
+}
+
+.hero .hero-img {
+    max-width: 400px;
+    display: block;
+    margin: auto
 }
 
 nav {
@@ -59,7 +71,6 @@ button {
 }
 
 footer {
-    position: fixed;
     bottom: 0;
     width: 100%;
     padding: 1rem;
